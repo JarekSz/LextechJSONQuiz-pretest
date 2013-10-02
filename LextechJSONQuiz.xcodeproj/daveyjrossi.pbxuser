@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* LextechJSONQuizAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 1077}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRange = "{0, 523}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LextechJSONQuizAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2736}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LextechJSONQuiz */ = {
+		activeExec = 0;
+		executables = (
+			82A9D2081358BB8A006D44EF /* LextechJSONQuiz */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LextechJSONQuizViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 1097}}";
+			sepNavSelRange = "{833, 16}";
+			sepNavVisRange = "{0, 1050}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LextechJSONQuizViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 2769}}";
+			sepNavSelRange = "{2016, 0}";
+			sepNavVisRange = "{0, 1962}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82A9D2081358BB8A006D44EF /* LextechJSONQuiz */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LextechJSONQuiz */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LextechJSONQuiz */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 82A9D21C1358BB9D006D44EF /* Code sense */;
+		executables = (
+			82A9D2081358BB8A006D44EF /* LextechJSONQuiz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1935,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324586602;
+			PBXWorkspaceStateSaveDate = 324586602;
+		};
+		perUserProjectItems = {
+			824B1DBC1358CC9300A0B554 /* PBXTextBookmark */ = 824B1DBC1358CC9300A0B554 /* PBXTextBookmark */;
+			824B1DDD1358CE0900A0B554 /* PBXTextBookmark */ = 824B1DDD1358CE0900A0B554 /* PBXTextBookmark */;
+			8287AA161358CBE900472EB5 /* PBXTextBookmark */ = 8287AA161358CBE900472EB5 /* PBXTextBookmark */;
+			82A9D2251358BBF2006D44EF /* PBXTextBookmark */ = 82A9D2251358BBF2006D44EF /* PBXTextBookmark */;
+			82A9D3341358C5C1006D44EF /* PBXTextBookmark */ = 82A9D3341358C5C1006D44EF /* PBXTextBookmark */;
+			82A9D3351358C5C1006D44EF /* PBXTextBookmark */ = 82A9D3351358C5C1006D44EF /* PBXTextBookmark */;
+			82A9D3361358C5C1006D44EF /* PBXTextBookmark */ = 82A9D3361358C5C1006D44EF /* PBXTextBookmark */;
+			82A9D3371358C5C1006D44EF /* PBXTextBookmark */ = 82A9D3371358C5C1006D44EF /* PBXTextBookmark */;
+			82A9D3381358C5C1006D44EF /* PBXTextBookmark */ = 82A9D3381358C5C1006D44EF /* PBXTextBookmark */;
+			82A9D3391358C5C1006D44EF /* PBXTextBookmark */ = 82A9D3391358C5C1006D44EF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82A9D21B1358BB9D006D44EF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	824B1DBC1358CC9300A0B554 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LextechJSONQuizViewController.m */;
+		name = "LextechJSONQuizViewController.m: 89";
+		rLen = 0;
+		rLoc = 2020;
+		rType = 0;
+		vrLen = 2132;
+		vrLoc = 1600;
+	};
+	824B1DDD1358CE0900A0B554 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LextechJSONQuizViewController.m */;
+		name = "LextechJSONQuizViewController.m: 87";
+		rLen = 0;
+		rLoc = 2016;
+		rType = 0;
+		vrLen = 1962;
+		vrLoc = 0;
+	};
+	8287AA161358CBE900472EB5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LextechJSONQuizViewController.h */;
+		name = "LextechJSONQuizViewController.h: 26";
+		rLen = 16;
+		rLoc = 833;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 0;
+	};
+	82A9D2081358BB8A006D44EF /* LextechJSONQuiz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LextechJSONQuiz;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	82A9D2131358BB9D006D44EF /* JSONKit.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = JSONKit.h;
+		path = /Users/daveyjrossi/Documents/Projects/PocketDr/trunk/PocketDr/Classes/JSONKit.h;
+		sourceTree = "<absolute>";
+	};
+	82A9D21B1358BB9D006D44EF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82A9D21C1358BB9D006D44EF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82A9D21D1358BBA3006D44EF /* JSONKit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 3627}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2981}";
+		};
+	};
+	82A9D21E1358BBCA006D44EF /* JSONKit.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 40170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3307}";
+		};
+	};
+	82A9D2251358BBF2006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D2131358BB9D006D44EF /* JSONKit.h */;
+		name = "JSONKit.h: 2";
+		rLen = 7;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 627;
+		vrLoc = 0;
+	};
+	82A9D24A1358BF13006D44EF /* TransactionTableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 1077}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 497}";
+		};
+	};
+	82A9D24B1358BF13006D44EF /* TransactionTableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2113, 1077}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{0, 837}";
+		};
+	};
+	82A9D3341358C5C1006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D24B1358BF13006D44EF /* TransactionTableViewCell.m */;
+		name = "TransactionTableViewCell.m: 19";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 0;
+	};
+	82A9D3351358C5C1006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D24A1358BF13006D44EF /* TransactionTableViewCell.h */;
+		name = "TransactionTableViewCell.h: 21";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 0;
+	};
+	82A9D3361358C5C1006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LextechJSONQuizAppDelegate.m */;
+		name = "LextechJSONQuizAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2736;
+		vrLoc = 0;
+	};
+	82A9D3371358C5C1006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D21D1358BBA3006D44EF /* JSONKit.h */;
+		name = "JSONKit.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2981;
+		vrLoc = 0;
+	};
+	82A9D3381358C5C1006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D21E1358BBCA006D44EF /* JSONKit.m */;
+		name = "JSONKit.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3307;
+		vrLoc = 0;
+	};
+	82A9D3391358C5C1006D44EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LextechJSONQuizAppDelegate.h */;
+		name = "LextechJSONQuizAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1CECFAA8135A8376009C0A11 /* LextechJSONQuiz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LextechJSONQuiz;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1CECFAAE135A8394009C0A11 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1CECFAAF135A8394009C0A11 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1CECFAED135C6FDB009C0A11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D24A1358BF13006D44EF /* TransactionTableViewCell.h */;
+		name = "TransactionTableViewCell.h: 6";
+		rLen = 0;
+		rLoc = 138;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	1CECFAEE135C6FDB009C0A11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82A9D24B1358BF13006D44EF /* TransactionTableViewCell.m */;
+		name = "TransactionTableViewCell.m: 16";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 0;
+	};
+	1CECFAEF135C6FDB009C0A11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LextechJSONQuizViewController.m */;
+		name = "LextechJSONQuizViewController.m: 17";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 101;
+	};
+	1CECFC24135CBB99009C0A11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LextechJSONQuizAppDelegate.m */;
+		name = "LextechJSONQuizAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1366;
+		rType = 0;
+		vrLen = 2004;
+		vrLoc = 771;
+	};
+	1CECFC25135CBB99009C0A11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	1CECFC26135CBB99009C0A11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* LextechJSONQuizAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 312}}";
+			sepNavSelRange = "{140, 0}";
+			sepNavVisRange = "{0, 328}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LextechJSONQuizAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{1366, 0}";
+			sepNavVisRange = "{771, 2004}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LextechJSONQuiz */ = {
+		activeExec = 0;
+		executables = (
+			1CECFAA8135A8376009C0A11 /* LextechJSONQuiz */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LextechJSONQuizViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 507}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LextechJSONQuizViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1503, 2782}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{101, 1425}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1CECFAA8135A8376009C0A11 /* LextechJSONQuiz */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LextechJSONQuiz */;
+		codeSenseManager = 1CECFAAF135A8394009C0A11 /* Code sense */;
+		executables = (
+			1CECFAA8135A8376009C0A11 /* LextechJSONQuiz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					708,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324698998;
+			PBXWorkspaceStateSaveDate = 324698998;
+		};
+		perUserProjectItems = {
+			1CECFAED135C6FDB009C0A11 /* PBXTextBookmark */ = 1CECFAED135C6FDB009C0A11 /* PBXTextBookmark */;
+			1CECFAEE135C6FDB009C0A11 /* PBXTextBookmark */ = 1CECFAEE135C6FDB009C0A11 /* PBXTextBookmark */;
+			1CECFAEF135C6FDB009C0A11 /* PBXTextBookmark */ = 1CECFAEF135C6FDB009C0A11 /* PBXTextBookmark */;
+			1CECFC24135CBB99009C0A11 /* PBXTextBookmark */ = 1CECFC24135CBB99009C0A11 /* PBXTextBookmark */;
+			1CECFC25135CBB99009C0A11 /* PBXTextBookmark */ = 1CECFC25135CBB99009C0A11 /* PBXTextBookmark */;
+			1CECFC26135CBB99009C0A11 /* PBXTextBookmark */ = 1CECFC26135CBB99009C0A11 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1CECFAAE135A8394009C0A11 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 234}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 294}";
+		};
+	};
+	82A9D21D1358BBA3006D44EF /* JSONKit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1433, 3237}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1940}";
+		};
+	};
+	82A9D24A1358BF13006D44EF /* TransactionTableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 765}}";
+			sepNavSelRange = "{138, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	82A9D24B1358BF13006D44EF /* TransactionTableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {886, 765}}";
+			sepNavSelRange = "{364, 0}";
+			sepNavVisRange = "{0, 846}";
+		};
+	};
+}

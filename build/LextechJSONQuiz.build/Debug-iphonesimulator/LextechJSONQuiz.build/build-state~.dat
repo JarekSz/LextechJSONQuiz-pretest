@@ -1,0 +1,480 @@
+TLextechJSONQuiz
+v7
+r0
+t324582821.844195
+cCheck dependencies
+cProcessInfoPlistFile /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/Info.plist LextechJSONQuiz-Info.plist
+cCompileXIB /Users/daveyjrossi/Desktop/LextechJSONQuiz/MainWindow.xib
+cCompileXIB /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/../LextechJSONQuizViewController.xib
+cProcessPCH /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch.gch LextechJSONQuiz_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/main.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizAppDelegate.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizViewController.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/JSONKit.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz normal i386
+cGenerateDSYMFile /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app.dSYM /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz
+cTouch /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+c000000004D54CEB30000000000007AC8
+t1297403571
+s31432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFDictionary.h
+c000000004D54CEB300000000000080D0
+t1297403571
+s32976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFNumber.h
+c000000004D54CEB30000000000000EDF
+t1297403571
+s3807
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004D54CEB4000000000000B7CA
+t1297403572
+s47050
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004D54CFB80000000000001B27
+t1297403832
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
+c000000004D54CFB800000000000001CB
+t1297403832
+s459
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004D54CFB90000000000001777
+t1297403833
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004D54CFBA0000000000000E3B
+t1297403834
+s3643
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h
+c000000004D54CFBA0000000000001DE5
+t1297403834
+s7653
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h
+c000000004D54CFBA0000000000002033
+t1297403834
+s8243
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNull.h
+c000000004D54CFBC00000000000000B8
+t1297403836
+s184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004D54CFBC0000000000002E87
+t1297403836
+s11911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004D54CFBD0000000000006506
+t1297403837
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/AvailabilityMacros.h
+c000000004D4F7A2B0000000000007A5E
+t1297054251
+s31326
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/TargetConditionals.h
+c000000004D4F7A2B00000000000031E9
+t1297054251
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/assert.h
+c000000004D4F6E990000000000000F6E
+t1297051289
+s3950
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/objc/runtime.h
+c000000004D54CB4300000000000063AF
+t1297402691
+s25519
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdlib.h
+c000000004D4F6E9A00000000000030A7
+t1297051290
+s12455
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/string.h
+c000000004D4F6E9A0000000000001A3A
+t1297051290
+s6714
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/errno.h
+c000000004D54D0E90000000000002A36
+t1297404137
+s10806
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/../LextechJSONQuizViewController.xib
+c000000004DA884E10000000000005F80
+t1302889697
+s24448
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.h
+c000000004D9396760000000000002D4A
+t1301517942
+s11594
+i<stddef.h>
+i<stdint.h>
+i<limits.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSString.h>
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m
+c000000004D906ECA000000000002A6F5
+t1301311178
+s173813
+i<stdio.h>
+i<stdlib.h>
+i<stdint.h>
+i<string.h>
+i<assert.h>
+i<sys/errno.h>
+i<math.h>
+i<limits.h>
+i<objc/runtime.h>
+i"JSONKit.h"
+i<CoreFoundation/CFString.h>
+i<CoreFoundation/CFArray.h>
+i<CoreFoundation/CFDictionary.h>
+i<CoreFoundation/CFNumber.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSException.h>
+i<Foundation/NSNull.h>
+i<Foundation/NSObjCRuntime.h>
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.h
+c000000004DA8840A000000000000020B
+t1302889482
+s523
+i<UIKit/UIKit.h>
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m
+c000000004DA8840A0000000000000ACE
+t1302889482
+s2766
+i"LextechJSONQuizAppDelegate.h"
+i"LextechJSONQuizViewController.h"
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.h
+c000000004DA8861A00000000000002AC
+t1302890010
+s684
+i<UIKit/UIKit.h>
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m
+c000000004DA88623000000000000082A
+t1302890019
+s2090
+i"LextechJSONQuizViewController.h"
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/asdf.h
+c000000004DA8858800000000000000D5
+t1302889864
+s213
+i<UIKit/UIKit.h>
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/asdf.m
+c000000004DA885880000000000001120
+t1302889864
+s4384
+i"asdf.h"
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/asdf.xib
+c000000004DA885880000000000001C57
+t1302889864
+s7255
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/LextechJSONQuizViewController.xib
+c000000004DA8840A0000000000001A65
+t1302889482
+s6757
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/LextechJSONQuiz_Prefix.pch
+c000000004DA8840A00000000000000C7
+t1302889482
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/MainWindow.xib
+c000000004DA8840A0000000000004E89
+t1302889482
+s20105
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app
+t1302890021
+s238
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app.dSYM
+t1302890021
+s102
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/Info.plist
+t1302890020
+s629
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz
+t1302890021
+s156540
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuizViewController.nib
+t1302890020
+s3576
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/MainWindow.nib
+t1302890020
+s1697
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/PkgInfo
+t1302890020
+s8
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/asdf.nib
+t2
+s0
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/JSONKit.o
+t1302890021
+s240592
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuiz.LinkFileList
+c000000004DA88624000000000000026A
+t1302890020
+s618
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizAppDelegate.o
+t1302890021
+s52036
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizViewController.o
+t1302890021
+s53912
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/asdf.o
+t2
+s0
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/main.o
+t1302890021
+s6320
+
+N/Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m
+c000000004DA8840A000000000000016D
+t1302889482
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch.gch
+t1302890021
+s15814064
+
+NLextechJSONQuiz-Info.plist
+c000000004DA8840A000000000000038D
+t1302889482
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324582820#324582820#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/JSONKit.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324582821.151617
+e324582821.616626
+r1
+xCompileC
+xbuild/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/JSONKit.o
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m324582821#324582821#0(0"0(0#0#60"/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m8621734400#2132"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-generated-files.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-own-target-headers.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-all-target-headers.hmap -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-project-headers.hmap -F/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/include -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources/i386 -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources -include /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch -c /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/JSONKit.m -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/JSONKit.o0#
+
+CCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizAppDelegate.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324582821.150291
+e324582821.293036
+r1
+xCompileC
+xbuild/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizAppDelegate.o
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m324582821#324582821#0(0"0(0#0#79"/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m8620065888#2170"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-generated-files.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-own-target-headers.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-all-target-headers.hmap -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-project-headers.hmap -F/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/include -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources/i386 -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources -include /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch -c /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizAppDelegate.m -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizAppDelegate.o0#
+
+CCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizViewController.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324582821.150950
+e324582821.294852
+r1
+xCompileC
+xbuild/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizViewController.o
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m324582821#324582821#0(0"0(0#0#82"/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m8618317184#2176"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-generated-files.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-own-target-headers.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-all-target-headers.hmap -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-project-headers.hmap -F/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/include -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources/i386 -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources -include /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch -c /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/LextechJSONQuizViewController.m -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuizViewController.o0#
+
+CCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/asdf.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/asdf.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/main.o /Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324582821.149542
+e324582821.271555
+r1
+xCompileC
+xbuild/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/main.o
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m324582821#324582821#0(0"0(0#0#49"/Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m8613803840#2118"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-generated-files.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-own-target-headers.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-all-target-headers.hmap -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-project-headers.hmap -F/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/include -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources/i386 -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources -include /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch -c /Users/daveyjrossi/Desktop/LextechJSONQuiz/main.m -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/../LextechJSONQuizViewController.xib
+s324582820.144612
+e324582820.503143
+r1
+xCompileXIB
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/../LextechJSONQuizViewController.xib
+lSLF07#2@55"CompileXIB Classes/../LextechJSONQuizViewController.xib324582820#324582820#0(0"0(0#0#87"/Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/../LextechJSONQuizViewController.xib8620068128#639"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuizViewController.nib /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/../LextechJSONQuizViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/daveyjrossi/Desktop/LextechJSONQuiz/Classes/asdf.xib
+r0
+
+CCompileXIB /Users/daveyjrossi/Desktop/LextechJSONQuiz/LextechJSONQuizViewController.xib
+r0
+
+CCompileXIB /Users/daveyjrossi/Desktop/LextechJSONQuiz/MainWindow.xib
+s324582820.144027
+e324582820.460621
+r1
+xCompileXIB
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324582820#324582820#0(0"0(0#0#57"/Users/daveyjrossi/Desktop/LextechJSONQuiz/MainWindow.xib8622624544#590"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/MainWindow.nib /Users/daveyjrossi/Desktop/LextechJSONQuiz/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app.dSYM /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz
+s324582821.793885
+e324582821.841877
+r1
+xGenerateDSYMFile
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app.dSYM
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/LextechJSONQuiz.app.dSYM build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz324582821#324582821#0(0"0(0#0#106"/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz8622108896#419"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app.dSYM0#
+
+CLd /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz normal i386
+s324582821.616697
+e324582821.793715
+r1
+xLd
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz
+xnormal
+xi386
+lSLF07#2@111"Link /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz324582821#324582821#0(0"0(0#0#0"8622919072#960"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -F/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -filelist /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/Objects-normal/i386/LextechJSONQuiz.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/LextechJSONQuiz0#
+
+CProcessInfoPlistFile /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/Info.plist LextechJSONQuiz-Info.plist
+s324582820.134079
+e324582820.143959
+r1
+xProcessInfoPlistFile
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/Info.plist
+xLextechJSONQuiz-Info.plist
+lSLF07#2@34"Process LextechJSONQuiz-Info.plist324582820#324582820#0(0"0(0#0#69"/Users/daveyjrossi/Desktop/LextechJSONQuiz/LextechJSONQuiz-Info.plist31244160508756040#515"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LextechJSONQuiz-Info.plist -genpkginfo /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app/Info.plist0#
+
+CProcessPCH /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch.gch LextechJSONQuiz_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324582820.503364
+e324582821.149458
+r1
+xProcessPCH
+x/var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch.gch
+xLextechJSONQuiz_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LextechJSONQuiz_Prefix.pch324582820#324582821#0(0"0(0#0#69"/Users/daveyjrossi/Desktop/LextechJSONQuiz/LextechJSONQuiz_Prefix.pch8622117728#1998"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-generated-files.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-own-target-headers.hmap -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-all-target-headers.hmap -iquote /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/LextechJSONQuiz-project-headers.hmap -F/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/include -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources/i386 -I/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/LextechJSONQuiz.build/Debug-iphonesimulator/LextechJSONQuiz.build/DerivedSources -c /Users/daveyjrossi/Desktop/LextechJSONQuiz/LextechJSONQuiz_Prefix.pch -o /var/folders/f+/f+ha0XRsHZamrJyjIEMmi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LextechJSONQuiz_Prefix-gqlirrrjqweejogpnwrzmdmzvntz/LextechJSONQuiz_Prefix.pch.gch0#
+
+CTouch /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app
+s324582821.841977
+e324582821.844159
+r1
+xTouch
+x/Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app
+lSLF07#2@96"Touch /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app324582821#324582821#0(0"0(0#0#0"8622085184#294"    cd /Users/daveyjrossi/Desktop/LextechJSONQuiz    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/daveyjrossi/Desktop/LextechJSONQuiz/build/Debug-iphonesimulator/LextechJSONQuiz.app0#
+
