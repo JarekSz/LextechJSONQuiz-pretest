@@ -10,9 +10,10 @@
 
 @class LextechJSONQuizViewController;
 
-@interface LextechJSONQuizAppDelegate : NSObject <UIApplicationDelegate> {
-    UIWindow *window;
-    LextechJSONQuizViewController *viewController;
+@interface LextechJSONQuizAppDelegate : NSObject <UIApplicationDelegate>
+{
+    UIWindow *_window;
+    LextechJSONQuizViewController *_viewController;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;

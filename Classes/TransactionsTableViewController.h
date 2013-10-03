@@ -9,9 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface TransactionsTableViewController : UITableViewController
-{
-    NSMutableArray *transactions;
-}
+//{
+//    NSMutableArray *transactions;
+//}
 
 @property (nonatomic, assign) NSMutableArray *transactions;
 

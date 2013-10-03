@@ -11,8 +11,9 @@
 
 @implementation LextechJSONQuizViewController
 
-@synthesize loadingIndicator, transactions;
-@synthesize transactionsTableView;
+@synthesize loadingIndicator =      _loadingIndicator;
+@synthesize transactions =          _transactions;
+@synthesize transactionsTableView = _transactionsTableView;
 
 
 
@@ -27,13 +28,13 @@
 
 - (IBAction)viewTransactions:(id)sender
 {
-    if (nil == transactionsTableView) {
-        transactionsTableView = [[TransactionsTableViewController alloc] initWithNibName: @"TransactionsTableViewController" bundle: nil];
+    if (nil == _transactionsTableView) {
+        _transactionsTableView = [[TransactionsTableViewController alloc] initWithNibName: @"TransactionsTableViewController" bundle: nil];
     }
     
-    [self presentModalViewController:transactionsTableView animated:YES];
+    [self presentModalViewController:_transactionsTableView animated:YES];
     
-    [transactionsTableView setCurrentTransactions:transactions];
+    [_transactionsTableView setCurrentTransactions:_transactions];
 
     self.transactionsTableView = nil;
 }
@@ -73,25 +74,25 @@
             @throw e;
         }
         
-        transactions = [[NSMutableArray alloc] init];
+        _transactions = [[NSMutableArray alloc] init];
 
         for (NSArray *string in [dictJSON allValues])
         {
-            [transactions addObjectsFromArray:string];
+            [_transactions addObjectsFromArray:string];
         }
     }
     @catch (NSException *exception)
     {
         NSLog(@"Exception: %@", exception.description);
         
-        transactions = [[NSMutableArray alloc] init];
+        _transactions = [[NSMutableArray alloc] init];
         
         NSDictionary *dictionary = [NSDictionary dictionaryWithObjectsAndKeys:
                                     @"000", @"ID",
                                     @"No description", @"description",
                                     @"0.00", @"price", nil];
         
-        [transactions addObject:dictionary];
+        [_transactions addObject:dictionary];
     }
     @finally
     {
@@ -129,13 +130,15 @@
 	
 	self.transactions = nil;
 	self.loadingIndicator = nil;
+    self.transactionsTableView = nil;
 }
 
 
 - (void)dealloc 
 {
-	transactions = nil;
-	loadingIndicator = nil;	
+	[_transactions release];
+	[_loadingIndicator release];
+    [_transactionsTableView release];
 	
     [super dealloc];
 }

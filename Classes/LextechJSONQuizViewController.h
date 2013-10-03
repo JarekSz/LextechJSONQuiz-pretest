@@ -13,12 +13,12 @@
 
 @interface LextechJSONQuizViewController : UIViewController
 {
-	UIActivityIndicatorView *loadingIndicator;
+	UIActivityIndicatorView *_loadingIndicator;
 	
     // changed to mutable
-	NSMutableArray *transactions;
+	NSMutableArray *_transactions;
     
-    IBOutlet TransactionsTableViewController *transactionsTableView;
+    IBOutlet TransactionsTableViewController *_transactionsTableView;
 
 }
 

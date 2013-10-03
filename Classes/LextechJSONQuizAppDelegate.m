@@ -11,8 +11,8 @@
 
 @implementation LextechJSONQuizAppDelegate
 
-@synthesize window;
-@synthesize viewController;
+@synthesize window =            _window;
+@synthesize viewController =    _viewController;
 
 
 #pragma mark -
@@ -79,8 +79,9 @@
 
 
 - (void)dealloc {
-    [viewController release];
-    [window release];
+    [_viewController release];
+    [_window release];
+    
     [super dealloc];
 }
 

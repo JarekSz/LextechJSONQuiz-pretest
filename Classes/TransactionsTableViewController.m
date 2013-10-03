@@ -14,7 +14,7 @@
 
 @implementation TransactionsTableViewController
 
-@synthesize transactions;
+@synthesize transactions = _transactions;
 
 
 - (IBAction)goBackToReload:(id)sender
@@ -87,7 +87,7 @@
 {
 //#warning Incomplete method implementation.
     // Return the number of rows in the section.
-    return [transactions count];
+    return [_transactions count];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -108,7 +108,7 @@
         UILabel *labelDescription = (UILabel *)[cell viewWithTag:102];
         UILabel *labelPrice = (UILabel *)[cell viewWithTag:103];
         
-        NSDictionary *record = [transactions objectAtIndex:index];
+        NSDictionary *record = [_transactions objectAtIndex:index];
         
         labelID.text = [record valueForKey:@"ID"];
         labelDescription.text = [record valueForKey:@"description"];
