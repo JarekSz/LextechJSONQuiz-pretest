@@ -12,15 +12,15 @@
 
 
 @interface LextechJSONQuizViewController : UIViewController
-{
-	UIActivityIndicatorView *_loadingIndicator;
-	
-    // changed to mutable
-	NSMutableArray *_transactions;
-    
-    IBOutlet TransactionsTableViewController *_transactionsTableView;
-
-}
+//{
+//	UIActivityIndicatorView *_loadingIndicator;
+//	
+//    // changed to mutable
+//	NSMutableArray *_transactions;
+//    
+//    IBOutlet TransactionsTableViewController *_transactionsTableView;
+//
+//}
 
 @property(nonatomic, retain) IBOutlet UIActivityIndicatorView *loadingIndicator;
 

@@ -11,9 +11,9 @@
 
 @implementation LextechJSONQuizViewController
 
-@synthesize loadingIndicator =      _loadingIndicator;
-@synthesize transactions =          _transactions;
-@synthesize transactionsTableView = _transactionsTableView;
+//@synthesize loadingIndicator =      _loadingIndicator;
+//@synthesize transactions =          _transactions;
+//@synthesize transactionsTableView = _transactionsTableView;
 
 
 
